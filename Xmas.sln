@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmas", "Xmas\Xmas.csproj", "{7A99E15D-970B-4101-8760-8C2620C78E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "ClassLibrary1\DAL.csproj", "{F9FAD0E4-555D-4C20-9ABA-D416C3EF631D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBox", "..\i3asp-develop\ToolBox\ToolBox.csproj", "{6CB910DC-1F61-4E70-8BCC-2E95C29E32BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A99E15D-970B-4101-8760-8C2620C78E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A99E15D-970B-4101-8760-8C2620C78E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A99E15D-970B-4101-8760-8C2620C78E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A99E15D-970B-4101-8760-8C2620C78E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FAD0E4-555D-4C20-9ABA-D416C3EF631D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FAD0E4-555D-4C20-9ABA-D416C3EF631D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FAD0E4-555D-4C20-9ABA-D416C3EF631D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FAD0E4-555D-4C20-9ABA-D416C3EF631D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB910DC-1F61-4E70-8BCC-2E95C29E32BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB910DC-1F61-4E70-8BCC-2E95C29E32BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB910DC-1F61-4E70-8BCC-2E95C29E32BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB910DC-1F61-4E70-8BCC-2E95C29E32BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0A3499-62E4-46B8-8245-F79229918CA3}
+	EndGlobalSection
+EndGlobal
